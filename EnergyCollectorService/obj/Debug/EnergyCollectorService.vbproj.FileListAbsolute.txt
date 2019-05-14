@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\EnergyCollectorService\obj\Debug\EnergyCollectorService.Resources.resources
+C:\Users\user\source\repos\EnergyCollectorService\obj\Debug\EnergyCollectorService.EnergyCollectorService.resources
+C:\Users\user\source\repos\EnergyCollectorService\obj\Debug\EnergyCollectorService.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\EnergyCollectorService\obj\Debug\EnergyCollectorService.vbproj.CoreCompileInputs.cache
